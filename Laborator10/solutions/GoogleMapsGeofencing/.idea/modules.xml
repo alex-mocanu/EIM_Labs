@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleMapsGeofencing.iml" filepath="$PROJECT_DIR$/GoogleMapsGeofencing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.8.0/gson-2.8.0.iml" filepath="$PROJECT_DIR$/gson-2.8.0/gson-2.8.0.iml" />
+    </modules>
+  </component>
+</project>

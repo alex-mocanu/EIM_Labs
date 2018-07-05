@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GoogleMapPlaces</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="navigate_to_location">Navigate To Location</string>
+    <string name="name">Name</string>
+    <string name="marker_type">Marker Type</string>
+    <string-array name="marker_types">
+        <item>Magenta</item>
+        <item>Violet</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Azure</item>
+        <item>Rose</item>
+        <item>Cyan</item>
+        <item>Yellow</item>
+    </string-array>
+    <string name="places">Places</string>
+    <string name="add_place">Add Place</string>
+    <string name="clear_places">Clear Places</string>
+</resources>

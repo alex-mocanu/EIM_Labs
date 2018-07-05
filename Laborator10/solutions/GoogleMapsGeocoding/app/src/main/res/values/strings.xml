@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMapsGeocoding</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="navigate_to_location">Navigate To Location</string>
+    <string name="get_location_address">Get Location Address</string>
+    <string name="address">Address</string>
+</resources>

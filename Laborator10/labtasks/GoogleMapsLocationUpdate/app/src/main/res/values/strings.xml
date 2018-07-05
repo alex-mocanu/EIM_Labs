@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleMapsLocationUpdate</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="navigate_to_location">Navigate To Location</string>
+    <string name="start_location_updates">Start Location Updates</string>
+    <string name="stop_location_updates">Stop Location Updates</string>
+    <string name="map_type">Map Type</string>
+    <string-array name="map_types">
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Terrain</item>
+        <item>Hybrid</item>
+    </string-array>
+</resources>
